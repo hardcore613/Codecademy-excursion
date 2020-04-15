@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+.headline, p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.headline.main {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+video {
+    display: block;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.headline.second {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    font-size: 21px;
+    color: grey;
+}
+
+.phone-icon {
+    display: block;
+    margin: 20px auto;
+}
+
+.headline.third {
+    margin-top: 30px;
+    font-weight: 300;
+}
+
+.link {
+    margin-top: 30px;
+}
+
+footer {
+    text-align: right;
+    color: grey;
+    margin: 30px 5px;
+}
+
+
+
+    
